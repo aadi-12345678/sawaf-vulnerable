@@ -1,7 +1,15 @@
 <h4>You all can test your all hacking on this lab using docker this project is just a prototype I have created for myself as a lab for testing but I loved it so much I thought to give this lab to public then i tested it after that I hosted on Vercel I have one server that is Vercel physically challenged person has created this GitHub both pages Please use my GitHub page docker image file then you can use.</h4>
 <p><a href="https://sawaf-vulnerable-1.vercel.app/?_vercel_share=8cZ9CYa9SNZDhRAa5tfyLtFW0W0apOIp">Visit Total-Coverage WAF Control Center!</a></p 
 <p><a href="https://hub.docker.com/r/aadityta/sawaf-vulnerable">Visit Image</a></p 
-
+```bash
+sudo docker pull aadityta/sawaf-vulnerable:latest
+sudo docker run -dp 8080:80 aadityta/sawaf-vulnerable
+sudo docker ps
+sudo  docker stop container id
+```
+Then open:
+browse
+http://localhost:8080
 <h1>🛡️A Vulnerable Web App for Penetrate testing it is a lab </h1>
 I have made with love 
 <h1>📜 Real-time Security Events</h1>
