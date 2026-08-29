@@ -99,5 +99,5 @@ Live vulnerable Web Application for Penetrate Testing<br>Live vulnerable Web App
 <p><a href="https://sawaf-vulnerable-1.vercel.app/?_vercel_share=8cZ9CYa9SNZDhRAa5tfyLtFW0W0apOIp">Visit Total-Coverage WAF Control Center!</a></p     
 <h4>I love my Lab</h4>
 <blockquote>
-I am Computer Engineer Hacker ( Penetrate Tester Writer Published article author a published research paper author developer philosopher Digital Marketer Graphic Designer too.
+I am Computer Engineer Hacker ( Penetrate Tester) Writer Published article author a published research paper author developer philosopher Digital Marketer Graphic Designer too.
 </blockquote>
