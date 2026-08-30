@@ -103,5 +103,5 @@ I am Computer Engineer Hacker ( Penetrate Tester) Writer Published article autho
 </blockquote>
 
 <blockquote>
-When I created this vulneable labe I created it in Python and named as CP Guard Fullform is Cerebral Palsy Guard.
+When I created this vulnerable lab I created it in Python and named as CP Guard Fullform is Cerebral Palsy Guard.
 </blockquote>
