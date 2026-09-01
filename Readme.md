@@ -111,3 +111,8 @@ When I created this vulnerable lab I created it in Python and named as CP Guard 
 <blockquote>
 Sawaf is an Arabic surname derived from the root word saf, meaning to be pure or to be clear 
 </blockquote>
+
+<blockquote>
+I'm doing a (free) web application firewall lab (just a hobby, won't be big and professional like OWASP) for Docker-enabled Windows, Linux, and Mac clones. This has been brewing since my original Python CP Guard build, and is starting to get ready.
+</blockquote>
+
